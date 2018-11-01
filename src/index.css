@@ -40,6 +40,10 @@ ol, ul {
   background: #ddd;
 }
 
+#root {
+  /* background-color: coral; */
+}
+
 .game {
   display: flex;
   flex-direction: row;
